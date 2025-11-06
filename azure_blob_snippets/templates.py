@@ -1,7 +1,5 @@
 """High level template operations backed by Azure Blob Storage."""
 
-from __future__ import annotations
-
 import json
 from dataclasses import dataclass
 from typing import List, Sequence

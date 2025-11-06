@@ -1,7 +1,5 @@
 """Connection helpers for Azure Blob Storage."""
 
-from __future__ import annotations
-
 import os
 
 from azure.core.exceptions import ResourceExistsError

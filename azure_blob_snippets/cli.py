@@ -1,7 +1,4 @@
 """Command line interface for the Azure Blob template snippets."""
-
-from __future__ import annotations
-
 import argparse
 from typing import Any, Sequence
 
